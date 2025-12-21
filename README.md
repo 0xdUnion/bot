@@ -7,6 +7,10 @@ Discord Bot
 ~~~yaml
 token: abcde123
 guild_id: 12345
+flow_channel_id: 123456
+yt_channels:
+  - UCxxxxxxxxxx
+  - UCyyyyyyyyyy
 ~~~
 
 # 服务
