@@ -1,5 +1,10 @@
 Discord Bot
 
+# 功能
+
+- 监听多个YouTube频道的新视频并在flow发布通知
+- 获取硬件占用情况
+
 # 配置
 
 在根目录创建`config.yaml`
